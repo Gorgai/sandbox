@@ -10,6 +10,7 @@ builder.Services.AddRazorComponents()
 
 var app = builder.Build();
 //first change
+//ändring under release
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
