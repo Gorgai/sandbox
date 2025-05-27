@@ -9,7 +9,7 @@ builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
 
 var app = builder.Build();
-
+//first change
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
