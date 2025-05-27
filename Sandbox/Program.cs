@@ -14,6 +14,7 @@ var app = builder.Build();
 //third
 // fel kommentar fourth fix125
 // Configure the HTTP request pipeline.
+//bugfix 00
 if (app.Environment.IsDevelopment())
 {
     app.UseWebAssemblyDebugging();
